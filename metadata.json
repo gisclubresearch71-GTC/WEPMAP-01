@@ -1,0 +1,6 @@
+{
+  "name": "GTC WebMap-Cambodia",
+  "description": "Professional GIS platform for Cambodia, featuring interactive layer management and spatial analysis.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
